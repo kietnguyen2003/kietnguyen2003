@@ -20,7 +20,7 @@
 - 🔧 Database architect with expertise in **SQL Server** design
 - 🔭 Research interests: **AI integration**, **DevOps**, and **Software Architecture**
 - 🌐 Building modern web applications with **Go** and **JavaScript**
-- 📫 Reach me: [Email](mailto:ngkiet2611@gmail.com) | [Facebook](https://www.facebook.com/share/g/1784iFqKV5/)
+- 📫 Reach me: [Email](mailto:ngkiet2611@gmail.com) | [Facebook](https://www.facebook.com/ngkiet2611)
 
 ---
 
@@ -77,24 +77,11 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kietnguyen2003&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kietnguyen2003&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="375"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kietnguyen2003&theme=tokyonight&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="450"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kietnguyen2003)
 [![Email](https://img.shields.io/badge/Gmail-ngkiet2611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngkiet2611@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/g/1784iFqKV5/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086410282258)
 
 ---
 
