@@ -21,6 +21,7 @@
 - 🔭 Research interests: **AI integration**, **DevOps**, and **Software Architecture**
 - 🌐 Building modern web applications with **Go** and **JavaScript**
 - 📫 Reach me: [Email](mailto:ngkiet2611@gmail.com) | [Facebook](https://www.facebook.com/ngkiet2611)
+- 🌐 My Portfolio website: [KiDeb](https://kietnguyen2003.github.io/portfolio-website/)
 
 ---
 
